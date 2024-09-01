@@ -35,9 +35,6 @@
 &nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
-
-
-
 <br>
 
 ### <u> Backend Development: </u>
@@ -75,6 +72,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp;
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+&nbsp;
+<br>
 
 ### <u> In future, I will learn: </u>
 <br>
