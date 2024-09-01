@@ -18,7 +18,7 @@
 
 ## 🚀💻 Technologies & Tools
 
-### <u> Languages And Frameworks: </u>
+### <u>Languages and Frameworks:</u>
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@
 &nbsp;
 <br>
 
-### <u> Backend Development: </u>
+### <u>Backend Development:</u>
 <br>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,18 +48,26 @@
 &nbsp;
 ![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+&nbsp;
 <br>
 
-### <u> Version Control and Tools: </u>
+### <u>Version Control and Collaboration:</u>
 <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+&nbsp;
+![Confluence](https://img.shields.io/badge/confluence-%23036CB5.svg?style=for-the-badge&logo=confluence&logoColor=white)
+&nbsp;
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+&nbsp;
 <br>
 
-### <u> Operating Systems and Others: </u>
+### <u>Operating Systems:</u>
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,7 +76,7 @@
 &nbsp;
 <br>
 
-### <u> Currently I'm learning: </u>
+### <u>Learning:</u>
 <br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -77,13 +85,13 @@
 &nbsp;
 <br>
 
-### <u> In future, I will learn: </u>
+### <u>To Learn:</u>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 &nbsp;
+<!-- ![Deep Dive into TCP/IP](https://img.shields.io/badge/TCP%2FIP-Deep%20Dive-blue?style=for-the-badge) -->
+
 <br>
 <hr>
 
