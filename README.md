@@ -46,6 +46,8 @@
 &nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
+![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+&nbsp;
 <br>
 
 ### <u> Version Control and Tools: </u>
