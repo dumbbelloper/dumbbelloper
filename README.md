@@ -88,8 +88,9 @@
 ### <u>To Learn:</u>
 <br>
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 &nbsp;
+<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![Deep Dive into TCP/IP](https://img.shields.io/badge/TCP%2FIP-Deep%20Dive-blue?style=for-the-badge) -->
 
 <br>
