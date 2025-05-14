@@ -18,7 +18,6 @@ Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dumbbelloper@gmai
 
 ## 🚀💻 Technologies & Tools
 
-### <u>Tech Stack:</u>
 <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,6 +28,7 @@ Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dumbbelloper@gmai
 &nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
+<br>
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
@@ -43,6 +43,7 @@ Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dumbbelloper@gmai
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 &nbsp;
 <br>
+<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -52,13 +53,12 @@ Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dumbbelloper@gmai
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 &nbsp;
 <br>
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 &nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 &nbsp;
 
 <br>
-<br>
-<hr>
 
 ------
