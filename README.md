@@ -1,60 +1,34 @@
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+## 🚀 Tech Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbbelloper&label=Profile%20views&base=0&abbreviated=true&color=252da1&style=for-the-badge" alt="dumbbelloper" /> </p>
-  <h3> Backend Developer </h3>
- 
-  - Java와 Spring 환경에서 안정적인 백엔드 시스템을 설계하고 구축하는 개발자입니다.
-  - 효율적이고 확장 가능한 서비스를 만드는 데 열정을 가지고 있습니다.
-
-<h3 align="left">Connect with me:</h3>
-
-Email : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dumbbelloper@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"></a>
-
-<hr>
-
-## 🚀💻 Technologies & Tools
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c86d70d-3a9e-4c4f-a713-a59ebbf68c89" alt="Award 1" width="1500" />  
+</p>
 
 <br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-&nbsp;
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-&nbsp;
-<br>
-<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-&nbsp;
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-&nbsp;
-<br>
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23036CB5.svg?style=for-the-badge&logo=confluence&logoColor=white)
-&nbsp;
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-&nbsp;
-<br>
-<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-&nbsp;
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-&nbsp;
+## 🏆 Awards
+
+- `2024 공개SW 개발자 대회` **과학기술정보통신부장관상 (대상)**
+- `대한민국 IT아키텍처` **과학기술정보통신부장관상 (대상)**
 
 <br>
 
-------
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46e4f2da-b8b7-4de4-bf22-2113cc53caf9" alt="과학기술정보통신부장관상 수상 증명" width="750" />
+</p>
+
+<br>
+
+
+## 🌱 Currently Learning
+
+* **Apache Kafka**: 대용량 데이터의 실시간 처리를 위해 이벤트 스트리밍 플랫폼인 Kafka를 학습하고 있습니다. 이벤트 기반 아키텍처(EDA)를 이해하고, 프로듀서와 컨슈머를 구현하여 안정적인 서비스 개발과 운영을 고민하고 있습니다.
+* **Spring AI**: Spring 생태계에서 LLM을 쉽게 활용할 수 있게 해주는 Spring AI 프로젝트에 대해 학습하고 있습니다. 이를 통해 기존 Spring 애플리케이션에 생성형 AI 기능을 통합하고, 더 지능적인 서비스를 만드는 방법을 탐구하고 있습니다.
+
+<br>
+
+## 💡 Interested In
+
+* **LLM을 활용한 업무 생산성 증대**: Google의 Gemini, Anthropic의 Claude와 같은 강력한 LLM을 API로 연동하여 개발 및 운영 업무를 자동화하고 생산성을 극대화하는 방법에 큰 관심이 있습니다. (코드 생성, 테스트 자동화, 기술 문서 요약 등)
+
+
