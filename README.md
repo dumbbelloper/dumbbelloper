@@ -30,8 +30,3 @@
 
 <br>
 
-## 💡 Interested In
-
-* **LLM을 활용한 업무 생산성 증대**: Google의 Gemini, Anthropic의 Claude와 같은 강력한 LLM을 API로 연동하여 개발 및 운영 업무를 자동화하고 생산성을 극대화하는 방법에 큰 관심이 있습니다. (코드 생성, 테스트 자동화, 기술 문서 요약 등)
-
-<br>
