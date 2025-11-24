@@ -22,18 +22,20 @@
 
 <br>
 
+## 🌱 Recent Projects
 
-## 🌱 Thoughts & Interests
+- [Recent Projects](https://github.com/dumbbelloper/code-weaver)
+  - [ApplePay](https://github.com/dumbbelloper/code-weaver/tree/34335b71819114e34b89f5cea3d300856ee0f94d/backend/service)
+  - [React, TanStack Query, Zustand, developed using Claude Code](https://github.com/dumbbelloper/code-weaver/tree/34335b71819114e34b89f5cea3d300856ee0f94d/frontend)
 
-- ApplePay PNO 개선
-  - Spring Cloud Config 를 적용하기 좋은 케이스 ( Runtime 중 property 변경 )
-  - 예외 처리를 비롯, 전반적인 리팩토링 진행. Kotlin 으로의 전환도 고려.
-  - 통합 테스트 도구가 필요 ( PNO -> Visa, Mastercard, Amex )
-- Copilot, Gemini 를 매우 유용하게 사용하고 있으나, Claude Max Plan 을 구독해서 한 달만 맛보기.
+## 👀 Thoughts & Interests
+
+- Copilot, Gemini 를 매우 유용하게 사용하고 있으나, Claude Max Plan 한 달만 맛보기.
 - AI 코드 리뷰(ex. CodeRabbit) 의 실제 효용?
 - ApplePay In-App Provisiong SDK 분석 ( Kotlin, Swift ) + App Server
-- [quickwit](https://github.com/quickwit-oss/quickwit)
-  - [당근마켓 사례](https://secondb.ai/summary/8604/) 
+- [Datadog이 인수한 검색엔진, quickwit-oss](https://github.com/quickwit-oss/quickwit)
+  - [당근마켓 케이스](https://secondb.ai/summary/8604/)
+
 
 
 <br>
