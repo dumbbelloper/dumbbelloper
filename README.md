@@ -30,9 +30,7 @@
 
 ## 👀 Thoughts & Interests
 
-- Copilot, Gemini 를 매우 유용하게 사용하고 있으나, Claude Max Plan 한 달만 맛보기.
-- AI 코드 리뷰(ex. CodeRabbit) 의 실제 효용?
-- ApplePay In-App Provisiong SDK 분석 ( Kotlin, Swift ) + App Server
+- Gemini가 매 주 발전하고 있다. 무서울 정도로. Claude Code 보다 나을지도..?
 - [Datadog이 인수한 검색엔진, quickwit-oss](https://github.com/quickwit-oss/quickwit)
   - [당근마켓 케이스](https://secondb.ai/summary/8604/)
 
