@@ -25,8 +25,7 @@
 ## 🌱 Recent Projects
 
 - [Recent Projects](https://github.com/dumbbelloper/code-weaver)
-  - [ApplePay](https://github.com/dumbbelloper/code-weaver/tree/34335b71819114e34b89f5cea3d300856ee0f94d/backend/service)
-  - [React, TanStack Query, Zustand, developed using Claude Code](https://github.com/dumbbelloper/code-weaver/tree/34335b71819114e34b89f5cea3d300856ee0f94d/frontend)
+  - [ApplePay](https://github.com/dumbbelloper/code-weaver/tree/34335b71819114e34b89f5cea3d300856ee0f94d/backend/service)  
 
 ## 👀 Thoughts & Interests
 
