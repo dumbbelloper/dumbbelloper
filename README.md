@@ -8,8 +8,10 @@
   Visa · Mastercard · Amex · UnionPay · Apple 등 해외 업무를 메인으로 담당하고 있습니다.
 
   **Stack**
-
-  Java · Spring · Oracle · MySQL · Redis · Kafka · ELFK · Docker / Docker Swarm · Jenkins 기타 등등 Java 생태계 전반에 관심이 많습니다.
+  
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/4c86d70d-3a9e-4c4f-a713-a59ebbf68c89" alt="Award 1" width="1500" />  
+  </p>
 
   **생각하는 것**
 
@@ -24,6 +26,16 @@
   - AI를 완전히 통제하면서 생산성을 극대화하는 방법은?
   - Hermes agent 들여다보는 중
   - HP Tandem 레거시 승인 시스템을 오픈소스 기반의 아키텍처로 전환하는 프로젝트를 진행하고 있습니다.
+
+  **Awards**
+  
+  - `2024 공개SW 개발자 대회` **과학기술정보통신부장관상 (대상)**
+  - `2024 대한민국 SW기술대상 및 IT 아키텍처 대상` **과학기술정보통신부장관상 (대상)**
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/46e4f2da-b8b7-4de4-bf22-2113cc53caf9" alt="과학기술정보통신부장관상 수상 증명" width="750" />
+  </p>
+
 
   **Contact**
 
