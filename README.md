@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbbelloper&label=Profile%20views&base=0&abbreviated=true&color=252da1&style=for-the-badge" alt="dumbbelloper" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumbbelloper&label=Profile%20views&base=0&color=252da1&style=for-the-badge" alt="dumbbelloper" /> </p>
 
   ### Hi, I'm dumbbelloper
 
@@ -25,7 +25,7 @@
   - Claude Code를 혼자가 아닌 팀 단위로 쓰는 방법은?
   - AI를 완전히 통제하면서 생산성을 극대화하는 방법은?
   - Hermes agent 들여다보는 중
-  - HP Tandem 레거시 승인 시스템을 오픈소스 기반의 아키텍처로 전환하는 프로젝트를 진행하고 있습니다.
+  - HP Tandem 레거시 승인 시스템을 오픈소스 기반의 아키텍처로 전환하는 프로젝트를 진행 중.
 
   **Awards**
   
