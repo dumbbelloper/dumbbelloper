@@ -26,6 +26,9 @@
   - AI를 완전히 통제하면서 생산성을 극대화하는 방법은?
   - Hermes agent 들여다보는 중
   - HP Tandem 레거시 승인 시스템을 오픈소스 기반의 아키텍처로 전환하는 프로젝트를 진행 중.
+  - [ISO8583](https://www.ibm.com/docs/ko/integration-bus/10.0.0?topic=formats-iso8583-messaging-standard) 파싱 프레임워크 개발 중
+    - Visa, Mastercard, Amex, UnionPay 외 국내 일부 VAN 등
+    - [modern-auth](https://github.com/dumbbelloper/modern-auth)
 
   **Awards**
   
